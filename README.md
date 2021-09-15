@@ -1,3 +1,3 @@
-# Linguagens de Programação
+# Introdução à Engenharia de Confiabilidade
 
-Repositório com material de disciplina de Introdução à Engenharia de Confiabilidade.
+Repositório com material da disciplina de Introdução à Engenharia de Confiabilidade.
