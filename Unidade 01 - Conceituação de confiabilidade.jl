@@ -49,7 +49,7 @@ md"""
 
 🕙 4. Apresentações do subtemas *(até 20/set/2021)*;
 
-🕑 5. Avaliações ([Google forms](https://docs.google.com/forms/d/e/1FAIpQLSep8IcQXjUs96Vm3bEEQ2LNs0vrvKq7ajYplkgNkUiMF8ksIQ/viewform?usp=sf_link)) *(até 21/set/2021)* e
+🕑 5. Avaliações ($(html"<a href='https://docs.google.com/forms/d/e/1FAIpQLSep8IcQXjUs96Vm3bEEQ2LNs0vrvKq7ajYplkgNkUiMF8ksIQ/viewform?usp=sf_link' target='_blank'>Formulário Eletrônico no Google Forms (Acesse aqui)</a>")) *(até 21/set/2021)* e
 
 🕒 6. Feedback (sala) *(até 21/set/2021)*.
 """

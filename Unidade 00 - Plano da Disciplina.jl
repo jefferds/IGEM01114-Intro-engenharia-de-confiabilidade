@@ -113,7 +113,7 @@ Avaliação será:
 
 ### Regras:
 
-- As avaliações serão feitas via $(html"<a href='https://forms.gle/ZSELRjj28PzqRU9V6' target='_blank'>Formulário Eletrônico no Google Forms (Acesse aqui)</a>"), com excessão do Resumo pré que deve ser entregue via Classroom.
+- As avaliações serão feitas via $(html"<a href='https://docs.google.com/forms/d/e/1FAIpQLSep8IcQXjUs96Vm3bEEQ2LNs0vrvKq7ajYplkgNkUiMF8ksIQ/viewform?usp=sf_link' target='_blank'>Formulário Eletrônico no Google Forms (Acesse aqui)</a>"), com excessão do Resumo pré que deve ser entregue via Classroom.
 - No caso de duplicidade de avaliação será considerada sempre a última avaliação enviada.
 - Serão consideradas apenas as avaliações realizadas no período estipulado, ou até quando estiverem disponíveis no formulário.
 - Cada avaliação receberá uma pontuação de 0 a 100.
