@@ -40,7 +40,7 @@ md"""
 
 **Fonte:**  Flávio Sanson Folgliatto e José Luis Ribeiro Duarte. _**Confiabilidade e Manutenção Industrial**_. Rio de Janeiro: Elsevier: ABEPRO, 2011.
 
-🕑 2. Ler ites do capítulo 1.6 do Livro do Fogliato e seus subsubitens. Postar no Classroom resumo de até uma página do que estudou *(até 27/set/2021)*;
+🕑 2. Ler itens do das seção 1.6 do Livro do Fogliato e seus subsubitens. Postar no Classroom resumo de até uma página do que estudou *(até 27/set/2021)*;
 
 🕔 3. Seleção dos subtemas com justificativa para o que será aprendendido e experienciado durante a unidade e cada estudante elabora os estudos dos subtemas (modelos, algoritmos, códigos, casos, simulações e análises) *(até 28/set/2021)*;
 
