@@ -9,16 +9,13 @@ html"<button onclick=present()> Presente </button>"
 
 # ╔═╡ 4fb54a13-3db2-4475-bd49-fd0f9d5cefa4
 md"""
-## Plano Unidade 01 - Conceituação de confiabilidade
+## Plano Unidade 02 - Conceituação de confiabilidade
 
 ### Tema relacionado na ementa:
 
 1. Conceituação de confiabilidade
 
-- 1.2. Evolução histórica da confiabilidade e suas principais áreas de aplicação
-- 1.3. Qualidade e confiabilidade
-- 1.4. Principais conceitos associados à confiabilidade
-- 1.5. Gestão da confiabilidade
+- Medidas de Confiabilidade.
 
 **Fonte:**  Flávio Sanson Folgliatto e José Luis Ribeiro Duarte. _**Confiabilidade e Manutenção Industrial**_. Rio de Janeiro: Elsevier: ABEPRO, 2011.
 
@@ -37,21 +34,21 @@ md"""
 md"""
 ### Roteiro
 
-🕐 1. Indicação do tema da atividade a ser executada por cada grupo *(até 13/set/2021)*,
+🕐 1. Indicação do tema da atividade a ser executada por cada grupo *(até 21/set/2021)*,
  
-- _Conceituação de confiabilidade_;
+- _Medidas de Confiabilidade_;
 
 **Fonte:**  Flávio Sanson Folgliatto e José Luis Ribeiro Duarte. _**Confiabilidade e Manutenção Industrial**_. Rio de Janeiro: Elsevier: ABEPRO, 2011.
 
-🕑 2. Ler os subitens 1.1, à 1.5, e seus subsubitens. Postar no Classroom resumo de até uma página do que estudou *(até 13/set/2021)*;
+🕑 2. Ler ites do capítulo 1.6 do Livro do Fogliato e seus subsubitens. Postar no Classroom resumo de até uma página do que estudou *(até 27/set/2021)*;
 
-🕔 3. Seleção dos subtemas com justificativa para o que será aprendendido e experienciado durante a unidade e cada estudante elabora os estudos dos subtemas (modelos, algoritmos, códigos, casos, simulações e análises) *(até 14/set/2021)*;
+🕔 3. Seleção dos subtemas com justificativa para o que será aprendendido e experienciado durante a unidade e cada estudante elabora os estudos dos subtemas (modelos, algoritmos, códigos, casos, simulações e análises) *(até 28/set/2021)*;
 
-🕙 4. Apresentações do subtemas *(até 20/set/2021)*;
+🕙 4. Apresentações do subtemas *(até 04/0ut/2021)*;
 
-🕑 5. Avaliações ($(html"<a href='https://docs.google.com/forms/d/e/1FAIpQLSep8IcQXjUs96Vm3bEEQ2LNs0vrvKq7ajYplkgNkUiMF8ksIQ/viewform?usp=sf_link' target='_blank'>Formulário Eletrônico no Google Forms (Acesse aqui)</a>")) *(até 21/set/2021)* e
+🕑 5. Avaliações ($(html"<a href='https://docs.google.com/forms/d/e/1FAIpQLSep8IcQXjUs96Vm3bEEQ2LNs0vrvKq7ajYplkgNkUiMF8ksIQ/viewform?usp=sf_link' target='_blank'>Formulário Eletrônico no Google Forms (Acesse aqui)</a>")) *(até 05/out/2021)* e
 
-🕒 6. Feedback (sala) *(até 21/set/2021)*.
+🕒 6. Feedback (sala) *(até 05/out/2021)*.
 """
 
 # ╔═╡ Cell order:
