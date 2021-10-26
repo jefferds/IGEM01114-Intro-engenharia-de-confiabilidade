@@ -38,13 +38,13 @@ md"""
 
 **Fonte:**  Flávio Sanson Folgliatto e José Luis Ribeiro Duarte. _**Confiabilidade e Manutenção Industrial**_. Rio de Janeiro: Elsevier: ABEPRO, 2011.
 
-🕑 2. Ler capítulo 2 do Livro do Fogliato e seus subsubitens. Selecionar um dos subtemas para apresentação, com justificativa para o que será aprendendido e experienciado durante a unidade e apresentar a solução de um exercício relacionado à apresentação realizada. *(até 08/out/2021)*;
+🕑 2. Ler capítulo 2 do Livro do Fogliato e seus subsubitens. Selecionar um dos subtemas para apresentação, com justificativa para o que será aprendendido e experienciado durante a unidade e apresentar a solução de um exercício relacionado à apresentação realizada. *(até 08/nov/2021)*;
 
-🕙 4. Apresentações do subtemas *(até 08/0ut/2021)*;
+🕙 3. Apresentações do subtemas *(até 08/nov/2021)*;
 
-🕑 5. Avaliações ($(html"<a href='https://docs.google.com/forms/d/e/1FAIpQLSep8IcQXjUs96Vm3bEEQ2LNs0vrvKq7ajYplkgNkUiMF8ksIQ/viewform?usp=sf_link' target='_blank'>Formulário Eletrônico no Google Forms (Acesse aqui)</a>")) *(até 09/out/2021)* e
+🕑 4. Avaliações *(até 09/nov/2021)* e
 
-🕒 6. Feedback (sala) *(até 09/out/2021)*.
+🕒 5. Feedback (sala) *(até 09/nov/2021)*.
 """
 
 # ╔═╡ Cell order:
