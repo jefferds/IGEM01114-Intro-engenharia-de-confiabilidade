@@ -1,0 +1,83 @@
+Œ¥bonds€¬cell_resultsƒÙ$64cb0563-2802-459e-8b14-2430546554abˆ¦queuedÂ±published_objects€§runningÂ¦output…¤bodyÚÙ<div class="markdown"><h3>Roteiro</h3>
+<p>ğŸ• 1. IndicaÃ§Ã£o do tema da atividade a ser executada por cada grupo <em>&#40;atÃ© 18/out/2021&#41;</em>,</p>
+<ul>
+<li><p><em>SoluÃ§Ã£o de exercÃ­cios dos livros sobre medidades de confiabilidade</em>;</p>
+</li>
+</ul>
+<p><strong>Fonte:</strong>  FlÃ¡vio Sanson Folgliatto e JosÃ© Luis Ribeiro Duarte. <em><strong>Confiabilidade e ManutenÃ§Ã£o Industrial</strong></em>. Rio de Janeiro: Elsevier: ABEPRO, 2011.</p>
+<p><strong>Fonte:</strong>  EBELING, Charles E. <em><strong>An introduction to reliability and maintainability engineering</strong></em>. Tata McGraw-Hill Education, 2004.</p>
+<p>ğŸ•‘ 2. Fazer busca rede e postar no Classroom resumo de atÃ© uma pÃ¡gina sobre o programa vscode e sobre a linguagem julia <em>&#40;atÃ© 19/out/2021&#41;</em>;</p>
+<ul>
+<li><p><a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a></p>
+</li>
+<li><p><a href="https://julialang.org/">https://julialang.org/</a></p>
+</li>
+</ul>
+<p>ğŸ•” 3. SeleÃ§Ã£o por cada componente do grupo de um exercÃ­cios a ser resolvido nas listas disponibilizadas no material da unidade no Classroom. Resolver o exercÃ­cio para apresentaÃ§Ã£o utilizando vscode e julia. &#40;modelos, algoritmos, cÃ³digos, casos, simulaÃ§Ãµes e anÃ¡lises&#41; <em>&#40;atÃ© 19/out/2021&#41;</em>;</p>
+<p>ğŸ•™ 4. ApresentaÃ§Ãµes dos exercÃ­cios <em>&#40;atÃ© 25/0ut/2021&#41;</em>;</p>
+<p>ğŸ•‘ 5. AvaliaÃ§Ãµes &#40;<a href='https://docs.google.com/forms/d/e/1FAIpQLSep8IcQXjUs96Vm3bEEQ2LNs0vrvKq7ajYplkgNkUiMF8ksIQ/viewform?usp=sf_link' target='_blank'>FormulÃ¡rio EletrÃ´nico no Google Forms (Acesse aqui)</a>&#41; <em>&#40;atÃ© 26/out/2021&#41;</em> e</p>
+<p>ğŸ•’ 6. Feedback &#40;sala&#41; <em>&#40;atÃ© 26/out/2021&#41;</em>.</p>
+</div>°persist_js_stateÂ¤mime©text/html²last_run_timestampËAØ^CRÅÎ¬rootassigneeÀ§cell_idÙ$64cb0563-2802-459e-8b14-2430546554ab¹depends_on_disabled_cellsÂ§runtimeÍ†a§erroredÂÙ$e9af4550-b632-11eb-1d0d-e11b45468706ˆ¦queuedÂ±published_objects€§runningÂ¦output…¤bodyÙ-<button onclick=present()> Presente </button>°persist_js_stateÂ¤mime©text/html²last_run_timestampËAØ^CQï¬rootassigneeÀ§cell_idÙ$e9af4550-b632-11eb-1d0d-e11b45468706¹depends_on_disabled_cellsÂ§runtimeÍ
+Œ§erroredÂÙ$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4ˆ¦queuedÂ±published_objects€§runningÂ¦output…¤bodyÚõ<div class="markdown"><h2>Plano Unidade 03 - Exercicios sobre Medidas de confiabilidade</h2>
+<h3>Tema relacionado na ementa:</h3>
+<ol>
+<li><p>ConceituaÃ§Ã£o de confiabilidade</p>
+</li>
+</ol>
+<ul>
+<li><p>Medidas de Confiabilidade.</p>
+</li>
+</ul>
+<p><strong>Fonte:</strong>  FlÃ¡vio Sanson Folgliatto e JosÃ© Luis Ribeiro Duarte. <em><strong>Confiabilidade e ManutenÃ§Ã£o Industrial</strong></em>. Rio de Janeiro: Elsevier: ABEPRO, 2011.</p>
+<p><strong>Fonte:</strong>  EBELING, Charles E. <em><strong>An introduction to reliability and maintainability engineering</strong></em>. Tata McGraw-Hill Education, 2004.</p>
+<h3>Resultados de aprendizagem esperados</h3>
+<p>âœ” UtilizaÃ§Ã£o do vscode e linguagem julia para soluÃ§Ã£o de problema de confibilidade.</p>
+<p>âœ” Apresentar os conceitos de confiabilidade.</p>
+<p>âœ” Desenvolver estratÃ©gias para soluÃ§Ã£o de problemas. </p>
+<p>âœ” Estabelecer relaÃ§Ãµes interpessoais e trabalhar em equipe, comunicar-se oralmente e ter responsabilidade coletiva.</p>
+</div>°persist_js_stateÂ¤mime©text/html²last_run_timestampËAØ^CQ;¬rootassigneeÀ§cell_idÙ$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4¹depends_on_disabled_cellsÂ§runtimeÍhL§erroredÂ±cell_dependenciesƒÙ$64cb0563-2802-459e-8b14-2430546554ab„´precedence_heuristic	§cell_idÙ$64cb0563-2802-459e-8b14-2430546554ab´downstream_cells_map€²upstream_cells_mapƒ§@md_str©@html_str¨getindexÙ$e9af4550-b632-11eb-1d0d-e11b45468706„´precedence_heuristic	§cell_idÙ$e9af4550-b632-11eb-1d0d-e11b45468706´downstream_cells_map€²upstream_cells_map©@html_strÙ$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4„´precedence_heuristic	§cell_idÙ$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4´downstream_cells_map€²upstream_cells_map‚§@md_str¨getindex´cell_execution_order“Ù$e9af4550-b632-11eb-1d0d-e11b45468706Ù$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4Ù$64cb0563-2802-459e-8b14-2430546554ab©shortpathÙ:Unidade 03 - Exercicios sobre Medidas de confiabilidade.jl®process_status¨starting¤pathÙ¦/home/runner/work/IGEM01114-Intro-engenharia-de-confiabilidade/IGEM01114-Intro-engenharia-de-confiabilidade/Unidade 03 - Exercicios sobre Medidas de confiabilidade.jlªcell_order“Ù$e9af4550-b632-11eb-1d0d-e11b45468706Ù$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4Ù$64cb0563-2802-459e-8b14-2430546554ab¥nbpkg‡²installed_versions€°terminal_outputs€§enabledÃ·restart_recommended_msgÀ´restart_required_msgÀ­busy_packages¬instantiatedÃ«cell_inputsƒÙ$64cb0563-2802-459e-8b14-2430546554ab„§cell_idÙ$64cb0563-2802-459e-8b14-2430546554ab°running_disabledÂ¤codeÚŠmd"""
+### Roteiro
+
+ğŸ• 1. IndicaÃ§Ã£o do tema da atividade a ser executada por cada grupo *(atÃ© 18/out/2021)*,
+ 
+- _SoluÃ§Ã£o de exercÃ­cios dos livros sobre medidades de confiabilidade_;
+
+**Fonte:**  FlÃ¡vio Sanson Folgliatto e JosÃ© Luis Ribeiro Duarte. _**Confiabilidade e ManutenÃ§Ã£o Industrial**_. Rio de Janeiro: Elsevier: ABEPRO, 2011.
+
+**Fonte:**  EBELING, Charles E. _**An introduction to reliability and maintainability engineering**_. Tata McGraw-Hill Education, 2004.
+
+ğŸ•‘ 2. Fazer busca rede e postar no Classroom resumo de atÃ© uma pÃ¡gina sobre o programa vscode e sobre a linguagem julia *(atÃ© 19/out/2021)*;
+
+- [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+- [https://julialang.org/](https://julialang.org/)
+
+ğŸ•” 3. SeleÃ§Ã£o por cada componente do grupo de um exercÃ­cios a ser resolvido nas listas disponibilizadas no material da unidade no Classroom. Resolver o exercÃ­cio para apresentaÃ§Ã£o utilizando vscode e julia. (modelos, algoritmos, cÃ³digos, casos, simulaÃ§Ãµes e anÃ¡lises) *(atÃ© 19/out/2021)*;
+
+ğŸ•™ 4. ApresentaÃ§Ãµes dos exercÃ­cios *(atÃ© 25/0ut/2021)*;
+
+ğŸ•‘ 5. AvaliaÃ§Ãµes ($(html"<a href='https://docs.google.com/forms/d/e/1FAIpQLSep8IcQXjUs96Vm3bEEQ2LNs0vrvKq7ajYplkgNkUiMF8ksIQ/viewform?usp=sf_link' target='_blank'>FormulÃ¡rio EletrÃ´nico no Google Forms (Acesse aqui)</a>")) *(atÃ© 26/out/2021)* e
+
+ğŸ•’ 6. Feedback (sala) *(atÃ© 26/out/2021)*.
+"""«code_foldedÃÙ$e9af4550-b632-11eb-1d0d-e11b45468706„§cell_idÙ$e9af4550-b632-11eb-1d0d-e11b45468706°running_disabledÂ¤codeÙ3html"<button onclick=present()> Presente </button>"«code_foldedÃÙ$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4„§cell_idÙ$4fb54a13-3db2-4475-bd49-fd0f9d5cefa4°running_disabledÂ¤codeÚ<md"""
+## Plano Unidade 03 - Exercicios sobre Medidas de confiabilidade
+
+### Tema relacionado na ementa:
+
+1. ConceituaÃ§Ã£o de confiabilidade
+
+- Medidas de Confiabilidade.
+
+**Fonte:**  FlÃ¡vio Sanson Folgliatto e JosÃ© Luis Ribeiro Duarte. _**Confiabilidade e ManutenÃ§Ã£o Industrial**_. Rio de Janeiro: Elsevier: ABEPRO, 2011.
+
+**Fonte:**  EBELING, Charles E. _**An introduction to reliability and maintainability engineering**_. Tata McGraw-Hill Education, 2004.
+
+### Resultados de aprendizagem esperados
+âœ” UtilizaÃ§Ã£o do vscode e linguagem julia para soluÃ§Ã£o de problema de confibilidade.
+
+âœ” Apresentar os conceitos de confiabilidade.
+
+âœ” Desenvolver estratÃ©gias para soluÃ§Ã£o de problemas. 
+
+âœ” Estabelecer relaÃ§Ãµes interpessoais e trabalhar em equipe, comunicar-se oralmente e ter responsabilidade coletiva.
+"""«code_foldedÃ«notebook_idÙ$5c2a88be-367c-11ec-2d5b-6f2cb93ed863«in_temp_dirÂ
