@@ -41,7 +41,7 @@ md"""
 
 🕑 2. Ler capítulo 5 do Livro do Folgliatto e seus subsubitens. _**Selecionar um dos subtemas para apresentação**_, com justificativa para o que será aprendendido e experienciado durante a unidade e apresentar a _**solução de um exercício (Não será aceito exemplo resolvido do livro)**_ relacionado à apresentação realizada. *(até 23/nov/2021)*;
 
-🕙 3. Apresentações do subtemas *(até 29/nov/2021)*;
+🕙 3. Apresentações do subtemas *(até 23/nov/2021)*;
 
 🕑 4. Avaliações *(até 29/nov/2021)* e
 
