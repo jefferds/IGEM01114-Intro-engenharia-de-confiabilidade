@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.15.1
+# v0.16.0
 
 using Markdown
 using InteractiveUtils
@@ -37,24 +37,41 @@ md"""
 md"""
 ### Roteiro
 
-🕐 1. Indicação do tema da atividade a ser executada por cada grupo *(até 13/set/2021)*,
+🕐 1. Indicação do tema da atividade a ser executada por cada grupo *(até 11/jul/2022)*,
  
 - _Conceituação de confiabilidade_;
 
 **Fonte:**  Flávio Sanson Folgliatto e José Luis Ribeiro Duarte. _**Confiabilidade e Manutenção Industrial**_. Rio de Janeiro: Elsevier: ABEPRO, 2011.
 
-🕑 2. Ler os subitens 1.1, à 1.5, e seus subsubitens. Postar no Classroom resumo de até uma página do que estudou *(até 13/set/2021)*;
+🕑 2. Ler os subitens 1.1, à 1.5 do livro do Fogliatto, e seus subsubitens. Postar no Classroom resumo de até uma página do que estudou *(até 13/julho/2022)*;
 
-🕔 3. Seleção dos subtemas com justificativa para o que será aprendendido e experienciado durante a unidade e cada estudante elabora os estudos dos subtemas (modelos, algoritmos, códigos, casos, simulações e análises) *(até 14/set/2021)*;
+🕔 3. Seleção dos subtemas com justificativa para o que será aprendendido e experienciado durante a unidade e cada estudante elabora os estudos dos subtemas (modelos, algoritmos, códigos, casos, simulações e análises) *(até 18/julho/2022)*;
 
-🕙 4. Apresentações do subtemas *(até 20/set/2021)*;
+🕙 4. Apresentações do subtemas *(até 18/julho/2022)*;
 
-🕑 5. Avaliações ($(html"<a href='https://docs.google.com/forms/d/e/1FAIpQLSep8IcQXjUs96Vm3bEEQ2LNs0vrvKq7ajYplkgNkUiMF8ksIQ/viewform?usp=sf_link' target='_blank'>Formulário Eletrônico no Google Forms (Acesse aqui)</a>")) *(até 21/set/2021)* e
+🕑 5. Avaliações  *(até 19/julho/2022)* e
 
-🕒 6. Feedback (sala) *(até 21/set/2021)*.
+🕒 6. Feedback (sala) *(até 20/set/2020)*.
+"""
+
+# ╔═╡ 00000000-0000-0000-0000-000000000001
+PLUTO_PROJECT_TOML_CONTENTS = """
+[deps]
+"""
+
+# ╔═╡ 00000000-0000-0000-0000-000000000002
+PLUTO_MANIFEST_TOML_CONTENTS = """
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.7.3"
+manifest_format = "2.0"
+
+[deps]
 """
 
 # ╔═╡ Cell order:
 # ╟─e9af4550-b632-11eb-1d0d-e11b45468706
 # ╟─4fb54a13-3db2-4475-bd49-fd0f9d5cefa4
 # ╟─64cb0563-2802-459e-8b14-2430546554ab
+# ╟─00000000-0000-0000-0000-000000000001
+# ╟─00000000-0000-0000-0000-000000000002
