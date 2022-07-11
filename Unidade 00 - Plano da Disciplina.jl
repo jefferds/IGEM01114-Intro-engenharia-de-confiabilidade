@@ -39,9 +39,7 @@ md"""
 
 ### Estratégia
 
-Com base no livro de ELMÔR FILHO, Gabriel et al. $(html"<a href='https://g.co/kgs/z62mSU' target='_blank'>Uma nova sala de aula é possível: aprendizagem ativa na educação em engenharia.</a>") Rio de Janeiro: LTC, 2019.
-
-Será aplicada a **Sala de aula invertida** com utilização da Estratégia *Co-op co-op* que é uma estratégia cooperativa de aprendizagem ativa.
+Estratégia *Co-op co-op* que é uma estratégia cooperativa de aprendizagem ativa.
 
 🧑‍🎓 Os estudantes trabalham juntos, em pequenas equipes (2 ou 3 membros), para:
 
@@ -57,38 +55,35 @@ Será aplicada a **Sala de aula invertida** com utilização da Estratégia *Co-
 
 # ╔═╡ 26d3ea71-ee35-47b4-b331-825ec7726002
 md"""
-### Roteiro
+## Roteiro
 
 🕐 1. Indicação do tema da atividade a ser executada por cada grupo *(até DD/MM/AAAA)*,
  
 - _Tema_;
 
-🕑 2. Ler os subitens 8.1, 8.3 e 8.4, e seus subsubitens e o material indicado nos links. Postar no Classroom resumo de até uma página do que estudou *(até DD/MM/AAAA)*;
+🕑 2. Estudar o material indicado e Postar no Classroom resumo de até uma página do que estudou *(até DD/MM/AAAA)*;
 
-🕔 3. Seleção dos subtemas com justificativa para que o que será aprendendido e experienciado durante a unidade e cada estudante elabora os estudos dos subtemas (modelos, algoritmos, códigos, simulações e análises) *(até DD/MM/AAAA)*;
+🕔 3. Seleção dos subtemas com justificativa para que o que será aprendido e experienciado durante a unidade e cada estudante elabora os estudos dos subtemas (modelos, algoritmos, códigos, simulações e análises) *(até DD/MM/AAAA)*;
 
-🕙 4. Apresentações do subtemas *(até DD/MM/AAAA)*;
+🕙 4. Apresentações *(até DD/MM/AAAA)*;
 
-🕑 5. Avaliações (sala ou extra sala) *(até DD/MM/AAAA)* e
+🕑 5. Avaliações pelo professor do resumo e das atividades apresentadas *(até DD/MM/AAAA)* e
 
 🕒 6. Feedback (sala) *(até DD/MM/AAAA)*.
 """
 
 # ╔═╡ be4fb5b9-3121-43a0-bfb8-45188637216e
 md"""
-### Recursos e Materiais Didáticos
+## Recursos e Materiais Didáticos
 
 1. Google Classroom;
-2. Google Meet para encontros;
-3. Jamboard como quadro branco;
-4. Google Forms para formulários e avaliações;
-5. Google Drive para arquivos (Docs, Slides, Planilhas, Desenhos);
-6. Os recurso $(html"<a href='https://code.visualstudio.com/' target='_blank'>Vscode</a>") e $(html"<a href='https://julialang.org/' target='_blank'>Linguagem Julia</a>") e $(html"<a href='https://github.com/fonsp/Pluto.jl' target='_blank'>Pluto.jl</a>") para Cálculos.
+2. Quadro e Laboratório APSE;
+3. Os recurso $(html"<a href='https://code.visualstudio.com/' target='_blank'>Vscode</a>") e $(html"<a href='https://julialang.org/' target='_blank'>Linguagem Julia</a>") para os Cálculos.
 """
 
 # ╔═╡ a602d726-3bdd-4d60-88a6-a2c2d2438c94
 md"""
-### Indicações de Referências
+## Indicações de Referências
 
 1. FOGLIATO, Flavio; RIBEIRO, José Luis Duarte. _**Confiabilidade e manutenção industrial**_. Elsevier Brasil. 2011.
 
@@ -107,53 +102,45 @@ md"""
 
 Avaliação será:
 
-- Contínua 
-- Individual 
-- Por Unidade a ser desenvolvida
+1. _**Avaliação das atividades desenvolvidas (Peso 6)**_
 
-### Regras:
+- Contínua, individual, Por unidade a ser desenvolvida
 
-- As avaliações serão feitas via $(html"<a href='https://docs.google.com/forms/d/e/1FAIpQLSep8IcQXjUs96Vm3bEEQ2LNs0vrvKq7ajYplkgNkUiMF8ksIQ/viewform?usp=sf_link' target='_blank'>Formulário Eletrônico no Google Forms (Acesse aqui)</a>"), com excessão do Resumo pré que deve ser entregue via Classroom.
-- No caso de duplicidade de avaliação será considerada sempre a última avaliação enviada.
-- Serão consideradas apenas as avaliações realizadas no período estipulado, ou até quando estiverem disponíveis no formulário.
-- Cada avaliação receberá uma pontuação de 0 a 100.
-- A nota para o conceito final será a média das notas das atividades propostas.
+2. _**Provas (Peso 4)**_
+
+- Duas provas
+- A nota para o conceito final será a média poderada das notas obtidas 1 (_Avaliação das atividades desenvolvidas (Peso 6)_) e 2 (_Provas (Peso4)_).
+
 """
 
 # ╔═╡ f92f9d30-b368-11eb-2e66-a7bbf5a4a943
 md"""
 
-### Composição das Notas
+## Composição das Notas
 
 A seguir são enumeradas os itens que serão avaliados.
 
-Para cada Unidade serão avaliados:
+Para cada Unidade serão avaliados pelo professor:
 
-1. Apresentações (peso 1).
-2. Contribuições individuais (peso 1).
+1. Resumo pré (peso 1)
+1. Apresentações (peso 2).
 3. Relatório (peso 1).
 
-#### 1. Apresentações (peso 1)
+"""
 
-Avalições que serão consideradas neste item: 
+# ╔═╡ 00000000-0000-0000-0000-000000000001
+PLUTO_PROJECT_TOML_CONTENTS = """
+[deps]
+"""
 
-- Avaliação por pares (peso 1)
-- Avaliação do professor (peso 1)
+# ╔═╡ 00000000-0000-0000-0000-000000000002
+PLUTO_MANIFEST_TOML_CONTENTS = """
+# This file is machine-generated - editing it directly is not advised
 
-#### 2. Contribuições individuais (peso 1)
+julia_version = "1.7.3"
+manifest_format = "2.0"
 
-Avaliações que serão consideradas: 
-
-- Avaliação do resumo pré (peso 1)
-- Avaliação por pares (peso 1)
-- Avaliação do professor (peso 1)
-
-#### 3. Relatório da Unidade (peso 1).
-
-- Autoavaliação (peso 1)
-- Avaliação por pares (peso 1)
-- Avaliação do professor (peso 1)
-
+[deps]
 """
 
 # ╔═╡ Cell order:
@@ -165,3 +152,5 @@ Avaliações que serão consideradas:
 # ╟─a602d726-3bdd-4d60-88a6-a2c2d2438c94
 # ╟─cd0d2e88-384f-472c-8d43-0813e0394695
 # ╟─f92f9d30-b368-11eb-2e66-a7bbf5a4a943
+# ╟─00000000-0000-0000-0000-000000000001
+# ╟─00000000-0000-0000-0000-000000000002
