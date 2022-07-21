@@ -1,3 +1,3 @@
-# Introdução à Engenharia de Confiabilidade
+# Informática Aplicada à Engenharia Mecânica
 
-Repositório com material da disciplina de Introdução à Engenharia de Confiabilidade.
+Repositório com material da disciplina de Informática Aplicada à Engenharia Mecânica.
